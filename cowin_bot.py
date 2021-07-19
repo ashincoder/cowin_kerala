@@ -68,7 +68,7 @@ def send_message_telegram(message):
     print(response)
 
 
-state = thrissur
+state = kozhikode
 
 if __name__ == "__main__":
     fetch_district(state)
